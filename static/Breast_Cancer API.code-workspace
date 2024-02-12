@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "Breast_Cancer API",
+			"path": "../Breast_Cancer API"
+		},
+		{
+			"name": "data",
+			"path": "../data"
+		},
+		{
+			"name": "Diabetes_API",
+			"path": "../Diabetes_API"
+		},
+		{
+			"name": "Heart_API",
+			"path": "../Heart_API"
+		},
+		{
+			"name": "Kidney_API",
+			"path": "../Kidney_API"
+		},
+		{
+			"name": "static",
+			"path": "."
+		},
+		{
+			"name": "Liver_API",
+			"path": "../Liver_API"
+		},
+		{
+			"name": "model_codes",
+			"path": "../model_codes"
+		}
+	]
+}
